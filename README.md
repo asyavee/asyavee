@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Asya, a React JavaScript developer.
+I'm currently looking for a job, so feel free to check out my [CV](./CV.md) and hire me!
+
+Contact me: hello@asyavee.pro
+
 <!--
 **asyavee/asyavee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
