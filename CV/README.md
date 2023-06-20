@@ -1,13 +1,13 @@
 # Asya Vishnevskaya
-Frontend Engineer (React.js)
+Front-end Engineer (React.js)
 
-email:  hire@asyavee.pro,
-        asya.vishn@gmail.com
+email:  hire@asyavee.pro
+        
 telegram: [@asyavee](http://t.me/asyavee])
 
-Frontend developer with at least 3 years of expirience in commertial software development. I have a good understanding of user interface design principles and the ability to differentiate between a good interface and an ordinary one. I'm fluent in Git and can easily recover commits after using git reset --hard.
-Fluent in English with the ability to read documentation (at least B2 level) and participate in interviews.
-Passionate about mentoring and guiding others in their learning journey. Ambitious and aspiring to become a full-stack developer.
+Front-end developer with over 3 years of experience in commercial software development. Good understanding of UX principles and a keen eye for a fine interface. Proficient in Git with the ability to recover commits after using `git reset --hard`.
+Fluent in English with the ability to read complex documentation (at least B2 level) and participate in interviews.
+Passionate about mentoring and guiding others in their learning journey. Ambitious and aspiring to become a full-stack product developer.
 
 ## Work Experience
 
@@ -16,9 +16,7 @@ Passionate about mentoring and guiding others in their learning journey. Ambitio
 Spain, [zeptolab.com](http://zeptolab.com)  
 May 2022 – August 2022 (4 months)
 
-- Developed interfaces for internal analytical tools
-- Integrated systems for automating enterprise technological and business processes
-- Provided IT consulting services
+- Developed product interfaces for internal analytical tools, resulting in optimized support teams workflow.
 
 ### IT Girl School
 **Frontend Program Mentor**  
@@ -26,44 +24,43 @@ May 2022 – August 2022 (4 months)
 March 2022 – May 2022 (3 months)
 
 - Conducted seminars and workshops
-- Checked homework assignments
-- Mentored students throughout their learning journey
-- Led group projects
+- Checked and evaluated homework assignments, ensuring adherence to industry best practices.
+- Mentored students throughout their learning journey, fostering their growth as front-end developers.
+- Led group projects, encouraging collaboration and the application of product development principles.
 
 ### Leroy Merlin
 **React.js Frontend Developer**  
 Russia, [leroymerlin.ru](http://leroymerlin.ru)  
 August 2019 – December 2021 (2 years 5 months)
 
-- Developed internal tools, including:
-  - Client application for managing electronic queue systems
-  - Client application for fiscal inventory
-  - Contributed to the development of in-house solutions, primarily React.js component libraries
+- Developed and released internal tools with a focus on enhancing product experiences, including:
+  - Client application for managing electronic queue systems, improving customer engagement.
+  - Client application for fiscal inventory, optimizing stock tracking processes.
+  - Collaborated in the development of mobile-based tools, optimizing onboarding and operational processes for store staff.
+  - Contributed to the development of in-house solutions, particularly React.js component libraries, promoting code reusability and product consistency.
 - Worked in the retail industry, specializing in DIY and home improvement products
 
-### Freelance
-**HTML/CSS Developer**
-Moscow  
-October 2016 – September 2018 (2 years)
-
-- Created landing page layouts
-- Project-based work
 
 ## Hard Skills
 
 - Programming languages: JavaScript, TypeScript, HTML, CSS
 - Frontend frameworks and libraries: React + Redux, Next.js, Gatsby, Node.js etc.
 - Version control: Git
-- Project management: Agile methodologies
+- RESTful APIs: Knowledge of designing and consuming RESTful APIs to integrate frontend applications with backend services.
+- Development Life Cycle: technical proficiency across different stages of the development process including Requirements Elicitation, Application Architecture definition, and Design
+- Project management: Proficient in Agile methodologies
 
 ## Soft Skills
 
-- The ability to figure anything out of 80 lvl
-- Mentoring archetype
-- Nonviolent communication adept
+- Problem-solving: Demonstrated ability to tackle complex challenges and find solutions, always striving for mastery.
+- Mentoring: Experienced in guiding and supporting individuals, fostering their professional growth and development.
+- Effective communication: Skilled in employing nonviolent communication techniques to ensure clear and empathetic interaction within teams and with stakeholders.
+- Empathy: Ability to understand and empathize with users, customers, and colleagues to create user-centric products.
+- Critical Thinking: Aptitude for evaluating situations, weighing options, and making well-reasoned decisions.
+
 
 ## Languages
 
-- Russian (native)
+- Russian
 - English (fluent)
 

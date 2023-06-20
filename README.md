@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Asya, a React JavaScript developer.
+I'm Asya, a JavaScript developer.
 I'm currently looking for a job, so feel free to check out my [CV](./CV/README.md) and hire me!
 
 Contact me: hello@asyavee.pro
