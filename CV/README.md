@@ -40,6 +40,10 @@ August 2019 – December 2021 (2 years 5 months)
   - Contributed to the development of in-house solutions, particularly React.js component libraries, promoting code reusability and product consistency.
 - Worked in the retail industry, specializing in DIY and home improvement products
 
+## Open source contributions and non-commercial projects
+- Peredelano.Mentoresque
+- ColorPooling
+- BrainBucket
 
 ## Hard Skills
 
