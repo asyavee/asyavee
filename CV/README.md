@@ -41,7 +41,7 @@ August 2019 – December 2021 (2 years 5 months)
 - Worked in the retail industry, specializing in DIY and home improvement products
 
 ## Open source contributions and non-commercial projects
-- Peredelano.Mentoresque
+- Peredelano.Mentoresque (as Team Lead)
 - ColorPooling
 - BrainBucket
 
