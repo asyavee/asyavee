@@ -44,6 +44,7 @@ August 2019 – December 2021 (2 years 5 months)
 - Peredelano.Mentoresque (as Team Lead)
 - ColorPooling
 - BrainBucket
+- Boloto
 
 ## Hard Skills
 
