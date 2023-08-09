@@ -1,7 +1,7 @@
 ### Hire me! 👋
 
 I'm Asya, a JavaScript developer.
-I'm currently looking for a job, so feel free to check out my [CV](./CV/README.md) and reach out!
+I'm currently looking for a job, so feel free to check out my [CV](./CV.md) and hire me!
 
 Contact me: hire@asyavee.me
 
