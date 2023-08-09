@@ -1,7 +1,7 @@
 # Asya Vishnevskaya
 Front-end Engineer (React.js)
 
-email:  hire@asyavee.pro
+email:  hire@asyavee.me
         
 telegram: [@asyavee](http://t.me/asyavee])
 
