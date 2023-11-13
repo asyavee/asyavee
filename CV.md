@@ -11,6 +11,15 @@ Passionate about mentoring and guiding others in their learning journey. Ambitio
 
 ## Work Experience
 
+### PARI
+**Fullstack Developer**  
+Cyprus, [pari.ru](http://pari.ru)  
+July 2023 – November 2023 (5 months)
+
+- Developed a sports betting platform for a subsidiary project
+- Integrated Auth service using Ory/Kratos
+- Implemented API for Digitain integration
+
 ### ZeptoLab
 **Frontend Developer**  
 Spain, [zeptolab.com](http://zeptolab.com)  
