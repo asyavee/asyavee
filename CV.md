@@ -59,7 +59,7 @@ August 2019 – December 2021 (2 years 5 months)
 ## Hard Skills
 
 - Programming languages: JavaScript, TypeScript, HTML, CSS
-- Frontend frameworks and libraries: React + Redux, Next.js, Gatsby, Node.js etc.
+- Modern frontend frameworks and libraries: React + Redux, Next.js, Node.js etc.
 - Version control: Git
 - RESTful APIs: Knowledge of designing and consuming RESTful APIs to integrate frontend applications with backend services.
 - Development Life Cycle: technical proficiency across different stages of the development process including Requirements Elicitation, Application Architecture definition, and Design
