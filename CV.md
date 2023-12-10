@@ -3,7 +3,7 @@ Front-end Engineer (React.js)
 
 email:  hire@asyavee.me
         
-telegram: [@asyavee](http://t.me/asyavee])
+telegram: [@asyavee](http://t.me/asyavee)
 
 Front-end developer with over 3 years of experience in commercial software development. Good understanding of UX principles and a keen eye for a fine interface. Proficient in Git with the ability to recover commits after using `git reset --hard`.
 Fluent in English with the ability to read complex documentation (at least B2 level) and participate in interviews.
